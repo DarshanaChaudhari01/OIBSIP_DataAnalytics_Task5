@@ -1,5 +1,6 @@
 # OIB-SIP Data Analytics Internship  
-## Task 5– Linear Regression Model Implementation  
+## Task 5– Predicting House Prices using Linear Regression
+
 
 ---
 
