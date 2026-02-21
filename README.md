@@ -17,7 +17,7 @@ The objective of this task is to implement a Linear Regression model to analyze 
 - To build a predictive model  
 - To analyze correlation between variables  
 - To evaluate model performance  
-- To visualize regression results  
+- To visualize regression results. 
 
 ---
 
